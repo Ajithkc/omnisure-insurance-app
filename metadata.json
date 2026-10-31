@@ -1,0 +1,6 @@
+{
+  "name": "OmniSure - Enterprise Insurance Claims, Fraud & RAG Intelligence",
+  "description": "Comprehensive multi-line insurance platform covering Life, P&C, Homeowners, and Auto insurance with end-to-end claims lifecycle, explainable fraud detection engine, and RAG-grounded customer service assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
